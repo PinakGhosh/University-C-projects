@@ -1,0 +1,1 @@
+ExamC.o: ../ExamC.c
